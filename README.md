@@ -18,3 +18,12 @@ open index.html
 go live
 ```
 
+## Minimum Viable Product
+* The ability to see all the pokemon
+* Display a carousel that cycles through the pokemon correctly
+
+## User StoriesAs a user I want to see the products
+As a user I want to sign up
+As a user I want to see prices for things that will be bought
+As a user I want to send inquiries about jewelry and get useful information
+As a user I want to eventually buy things
